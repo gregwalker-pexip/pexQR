@@ -1,3 +1,7 @@
+PexME Mobile Companion App for creatng Meeting QR code and virtual Remote Control
+Virtual Remote Controller is provided by PubNub IOT (Please use your own trial\demo account)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
