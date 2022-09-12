@@ -1,5 +1,5 @@
-PexME Mobile Companion App for creatng Meeting QR code and Virtual Remote Control
-Virtual Remote Controller is provided by PubNub IOT (Please use your own trial\demo account)
+PexME Mobile Companion App for creatng Meeting QR code and Virtual Remote Control.
+Virtual Remote Controller is provided by PubNub IOT (Please use your own trial\demo account).
 <WebSite>/pexME?m=xxxxxxxx
 where xxxxxx = Meeting ID (known by Pexip Infinity)
 
