@@ -1,9 +1,3 @@
-PexQR is the PexME Mobile Companion App (React Web) for creatng Meeting QR code and Virtual Remote Control.
-Virtual Remote Controller is provided by PubNub IOT (Please use your own trial\demo account).
-<WebSite>/pexME?m=xxxxxxxx
-where xxxxxx = Meeting ID (known by Pexip Infinity)
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
